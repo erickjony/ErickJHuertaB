@@ -3,7 +3,8 @@
 LaunchX
 
 ----------
-## [Práctica 3](/Practica-3/html/index.html)
+
+## [Práctica 3](https://erickjony.github.io/Practica-3/)
 
 Réplica de página con CSS.
 
